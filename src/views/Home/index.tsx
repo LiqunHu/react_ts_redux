@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from 'antd'
-import logo from './logo.svg';
+import logo from './logo.svg'
 import './style.css'
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
         <Button type="primary">Button</Button>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
